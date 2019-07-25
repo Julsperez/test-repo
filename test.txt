@@ -1,2 +1,4 @@
-hola mundo
-Soy Julio Pérez
+Este es un archivo de prueba
+para el curso de git y github
+
+jajaja
