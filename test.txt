@@ -3,3 +3,6 @@ para el curso de git y github
 
 Mañana nos enfocaremos en la vida laboral
 de lo que podemos lograr con el conocimiento
+
+
+Esto es un comentario hecho desde GitHub
