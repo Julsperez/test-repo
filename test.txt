@@ -1,8 +1,6 @@
 Este es un archivo de prueba
 para el curso de git y github
 
-Mañana nos enfocaremos en la vida laboral
-de lo que podemos lograr con el conocimiento
-
+Todo este parrafo es un cambio hecho desde el repositorio local
 
 Esto es un comentario hecho desde GitHub
